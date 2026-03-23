@@ -1,16 +1,27 @@
 # energy_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📌 Overview
+This project is developed as part of my software development work. It focuses on building a scalable and user-friendly application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Technologies Used
+- Flutter / Dart (if mobile)
+- .NET (C#, ASP.NET) (if backend)
+- SQL Database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
+- User-friendly interface
+- Data management
+- API integration
+- Responsive design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## ⚙️ How to Run
+1. Clone the repository
+2. Open in IDE (VS Code / Visual Studio)
+3. Run the project
+
+## 👩‍💻 Author
+Rini R
